@@ -1,4 +1,4 @@
-# CUDA Matrix Multiplication
+![image](https://github.com/user-attachments/assets/412a5119-d9cd-49b8-a6ac-ca2e941b3ed5)# CUDA Matrix Multiplication
 
 ## Overview
 
@@ -74,4 +74,8 @@ For questions, feedback, or suggestions:
 
 ---
 Experience the power of GPU-accelerated computing with CUDA!
+
+
+![image](https://github.com/user-attachments/assets/9f3744a3-a244-4ec9-99b6-cde79ada16c0)
+
 
