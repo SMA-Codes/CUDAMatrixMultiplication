@@ -27,24 +27,6 @@ This project demonstrates GPU-accelerated matrix multiplication using CUDA and C
 2. **C++ Compiler**:
    - Ensure your system has a compatible compiler, such as `gcc` or `clang` (Linux/macOS) or MSVC (Windows).
 
-### Build Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/SMA-Codes/CUDAMatrixMultiplication.git
-   cd CUDAMatrixMultiplication
-   ```
-
-2. Compile the program:
-   ```bash
-   nvcc -o cuda_matrix_mul matrix_mul.cu
-   ```
-
-3. Run the program:
-   ```bash
-   ./cuda_matrix_mul
-   ```
-
 ## Usage
 
 1. Modify the matrix dimensions in `matrix_mul.cu` if needed (ensure dimensions are multiples of 16):
